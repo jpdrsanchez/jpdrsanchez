@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is João Pedro and I'm Web Developer 💻 at [Grano Studio](https://granostudio.com.br/) and a musician in my spare time. 🎤🎹🎸
+My name is João Pedro and I'm Web Developer 💻 at [Grano Studio](https://granostudio.com.br/) and musician in my spare time. 🎤🎹🎸
 
 * 💼 I've been working with: HTML, CSS3 with Sass, Javascript (ES6+) and Wordpress (PHP).
 * 💡 I've been studying: React JS and PHP.
