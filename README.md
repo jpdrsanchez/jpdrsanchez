@@ -2,8 +2,8 @@
 
 My name is João Pedro and I'm Web Developer 💻 at [Grano Studio](https://granostudio.com.br/) and musician in my spare time. 🎤🎹🎸
 
-* 💼 I've been working with: HTML, CSS3 with Sass, Javascript (ES6+) and Wordpress (PHP).
-* 💡 I've been studying: React JS and PHP.
+* 💼 I've been working with: ReactJS with Hooks and Context API, NextJS (SSR, SSG, ISR), Styled Components, Javascript (ES6+), Wordpress and Laravel (PHP).
+* 💡 I've been studying: PHP and Typescript.
 
 More about me at:
 
